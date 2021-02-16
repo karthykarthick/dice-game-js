@@ -2,7 +2,7 @@
 
 > This project consists of developing a Dice gme page using the recently acquired knowledge in Dom. Using mostly Javascript, I was able to insert elemnts and features. The project is made of different modules using webpack. 
 
-![screenshot](./screenshot.png)
+![screenshot](./s1.png)
 
 ## Built With
 - HTML & CSS
